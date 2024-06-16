@@ -1,3 +1,5 @@
+!["QRcode-generator"](QRcode_generator.png)
+-
 ⚡ Scan It! - Your Blazing-Fast QR Code Generator
 -
 This sleek and user-friendly web app lets you effortlessly generate QR codes for any text data you throw at it!
